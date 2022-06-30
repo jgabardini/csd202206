@@ -1,3 +1,5 @@
+![javascript-CI](https://github.com/jgabardini/csd202206/actions/workflows/integrate.yml/badge.svg)
+
 #### Para instalar las dependencias:
 
 npm install
